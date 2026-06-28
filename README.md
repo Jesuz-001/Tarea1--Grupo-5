@@ -1,7 +1,8 @@
 # Tarea1CuotaPrestamo
 
 Nombre de integrantes
-.Johanna Hidalgo Silvestre (Lider) Matricula "25-SSON-2-007"
+.Johanna Hidalgo Silvestre (Lider) Matricula "25-SSON-2-007",
+ Jesus David Calderon "25- SISN-2-024", Jeury Calcaño Mejía "25-SISN-2-012"
 .
 .
 .
